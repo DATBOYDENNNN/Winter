@@ -1,7 +1,7 @@
-2.5
+2.6
 
 # Change Log
-- Added Multi Roblox
-- Fixed Injection
-- 100% UNC
-- 98% UNCS
+- NEW UI
+- FASTER INJECTION
+- REBRANDED EXECUTOR
+- ADDED SCRIPT HUB TAB
